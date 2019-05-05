@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\CalculatorPassover\CalculatorPassover\bin\Debug\CalculatorPassover.exe.config
+C:\Users\rosla\source\repos\CalculatorPassover\CalculatorPassover\bin\Debug\CalculatorPassover.exe
+C:\Users\rosla\source\repos\CalculatorPassover\CalculatorPassover\bin\Debug\CalculatorPassover.pdb
+C:\Users\rosla\source\repos\CalculatorPassover\CalculatorPassover\obj\Debug\CalculatorPassover.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\CalculatorPassover\CalculatorPassover\obj\Debug\CalculatorPassover.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\CalculatorPassover\CalculatorPassover\obj\Debug\CalculatorPassover.exe
+C:\Users\rosla\source\repos\CalculatorPassover\CalculatorPassover\obj\Debug\CalculatorPassover.pdb
